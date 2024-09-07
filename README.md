@@ -1,5 +1,8 @@
 # Project: Machine learning for glacier mass balance modelling
 
+**Student:** <br />
+Cameron Markovsky
+
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
